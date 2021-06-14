@@ -1,4 +1,4 @@
-package com.sample.orders.integration;
+package com.sample.orders.web.rest;
 
 import com.sample.common.domains.Item;
 import com.sample.orders.unit.services.ItemsService;

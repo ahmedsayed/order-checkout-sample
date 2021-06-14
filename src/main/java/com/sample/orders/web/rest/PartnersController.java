@@ -1,4 +1,4 @@
-package com.sample.orders.integration;
+package com.sample.orders.web.rest;
 
 import com.sample.common.domains.Partner;
 import com.sample.orders.unit.services.PartnersService;
